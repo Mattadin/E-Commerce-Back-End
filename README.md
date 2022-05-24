@@ -34,4 +34,4 @@ To launch the MySQL command-line client, enter the flowing command in a Command 
 
 Below is the link to my demo video on my Github:
 
-- [Video location in Github](https://github.com/mattadin/e-commerce-back-end/tree/master/assets/video)
+- [Video location in Github](https://github.com/Mattadin/E-Commerce-Back-End/blob/main/assets/Matt_e_commerce_backend.webm)
